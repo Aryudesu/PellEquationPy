@@ -1,2 +1,2 @@
-# PellEquationPy
-Pell Equation by Python
+# ペル方程式の解計算プログラム
+タイトルの通りです
